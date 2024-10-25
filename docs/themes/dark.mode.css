@@ -1501,7 +1501,7 @@ div[class*="wrapper_c51b4e"][aria-label*="Online"]>svg[class="mask_c51b4e svg_c5
 }
 
 .theme-dark .embedFull_ad0b71:after {
-    background: linear-gradient(to right, transparent, rgb(51, 50, 53));
+    background: rgb(51, 50, 53);
     z-index: -3;
 }
 
