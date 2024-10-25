@@ -1835,7 +1835,7 @@ html.theme-light .panels_a4d4d9 {
 }
 
 html.theme-light .sidebar_a4d4d9 .content_eed6a8:after {
-    content: 'this big gap is for the floating user controls, so sry if it looks ugly';
+    content: 'this';
     font-size: 13px;
     color: rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -1846,8 +1846,8 @@ html.theme-light .sidebar_a4d4d9 .content_eed6a8:after {
 }
 
 html.theme-light .panels_a4d4d9 > .container_b2ca13 .flex_dc333f > :not(:last-child) {
-    opacity: 0% !important;
-    width: 50px;
+    opacity: 100% !important;
+    width: 40px;
     transition: all 0.3s;
 }
 
