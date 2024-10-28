@@ -1800,7 +1800,7 @@ html.theme-dark .withTagAsButton_b2ca13:hover {
 /*floating user controls*/
 html.theme-dark .panels_a4d4d9 {
     background: #181a1d !important;
-    box-shadow: 0 5px 8px #15171a;
+    box-shadow: unset;
     border-radius: 12px;
     margin: 10px 10px 23px;
     position: absolute;
