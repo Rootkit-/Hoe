@@ -1830,7 +1830,7 @@ html.theme-dark .sidebar_a4d4d9 .content_eed6a8:after {
     display: block;
 }
 
-.panels_a4d4d9>.container_b2ca13 .flex_dc333f> :not(:last-child) {
+.panels_a4d4d9>.container_b2ca13 .flex_dc333f{
     opacity: 100% !important;
     width: 40px;
     transition: all 0.3s;
