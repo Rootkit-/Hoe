@@ -1481,7 +1481,7 @@ div[class*="wrapper_c51b4e"][aria-label*="Online"]>svg[class="mask_c51b4e svg_c5
 
 .theme-dark .embedFull_ad0b71 {
     border-left: calc(4px + var(--embed-line-width)) solid var(--background-accent);
-    background: rgb(51, 50, 53);
+    background: #121212;
     box-shadow: 2px 2px 8px rgb(42, 42, 46);
 }
 
@@ -1501,12 +1501,12 @@ div[class*="wrapper_c51b4e"][aria-label*="Online"]>svg[class="mask_c51b4e svg_c5
 }
 
 .theme-dark .embedFull_ad0b71:after {
-    background: linear-gradient(to right, transparent, rgb(51, 50, 53));
+    background: #121212;
     z-index: -3;
 }
 
 .theme-dark .embedFull_ad0b71:before {
-    background: rgb(51, 50, 53);
+    background: #121212;
     opacity: 0.8;
     z-index: -1;
 }
